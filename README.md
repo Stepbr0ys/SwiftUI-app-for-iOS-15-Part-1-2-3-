@@ -1,5 +1,4 @@
 # SwiftUI-app-for-iOS-15-Part-1-2-3-
-[part2](https://user-images.githubusercontent.com/98657431/175901086-a7c4ac94-e79d-4ff0-90c7-d24628e9d3ac.png)
 
 Hi All👋🏻
 
