@@ -13,7 +13,7 @@ I learned how to export SVG to SwiftUI and animate 🎬
 I also liked working with GeometryReader, thanks to which TabBar was made for each screen width 🖥
 By the way really admire SF Symbols 3, which allows you to customize the set of colors for each symbol 🍎
 Design by: Meng To 💪
-If you ❤️ it, just press "L" (https://dribbble.com/shots/17280257-SwiftUI-for-iOS-15-Some-cool-stuff-Course-based)
+[If you ❤️ it, just press "L"](https://dribbble.com/shots/17280257-SwiftUI-for-iOS-15-Some-cool-stuff-Course-based)
 Good luck ✨
 
 Part2
@@ -24,7 +24,7 @@ I created a cool style via extension that allows to animate text size and other 
 Also thanks to the EnvironmentObject I was able to pass data to all Views through which I could close and open the TabBar or hide or reveal the StatusBar⚡️
 There will be many new things ahead, like Log In Сard, etc ☄️
 Design by: Meng To 💪
-If you ❤️ it, just press "L" (https://dribbble.com/shots/17292017-SwiftUI-for-iOS-15-Some-cool-stuff-Course-based-PART-2)
+[If you ❤️ it, just press "L"](https://dribbble.com/shots/17292017-SwiftUI-for-iOS-15-Some-cool-stuff-Course-based-PART-2)
 Good luck ✨
 
 Part3
